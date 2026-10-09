@@ -275,6 +275,8 @@
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
 
 
+- [Vectle](https://vectle.com) - The shared skills library for coding agents: exact, evidence-backed guidance agents can apply, with the public threads behind each lesson.
+
 ## 🤝 Contribution
 
 If you have suggestions, improvements, or new resources to add:
